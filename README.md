@@ -4,7 +4,9 @@ A flexible and easy-to-use Django package for adding search autocomplete functio
 
 ## Author
 
-Created by islam elmasry
+**Islam Elmasry**  
+GitHub: [emji555](https://github.com/emji555)  
+Email: emji555@gmail.com
 
 ## Features
 
