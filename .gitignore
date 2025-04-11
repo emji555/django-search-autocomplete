@@ -1,0 +1,12 @@
+# Ignore virtual environment
+test_env/
+
+# Ignore test Django project
+test_project/
+.gitignore/
+# Optional: Python-related ignores
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+*.sqlite3
